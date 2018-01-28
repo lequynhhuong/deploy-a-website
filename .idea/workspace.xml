@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07051ae9-bfe6-4472-b01b-7f084233ee38" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/another another README.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/another another README.md" afterPath="$PROJECT_DIR$/another another README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/another another README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="115">
-                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <first_editor relative-caret-position="588">
+                <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -146,12 +145,12 @@
       <updated>1517072931870</updated>
       <workItem from="1517072935443" duration="4222000" />
       <workItem from="1517124254272" duration="3480000" />
-      <workItem from="1517150453179" duration="659000" />
+      <workItem from="1517150453179" duration="3640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8361000" />
+    <option name="totallyTimeSpent" value="11342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1400" height="769" extended-state="0" />
@@ -235,8 +234,8 @@
     <entry file="file://$PROJECT_DIR$/another another README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="115">
-            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <first_editor relative-caret-position="588">
+            <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />
