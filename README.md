@@ -1,3 +1,5 @@
+Apparently there are a lot of ways to deploy a website. The information listed here are just my notes regarding this problem 
+
 # deploy-a-website
 **A static website** (sometimes called a flat page/stationary page)
 
