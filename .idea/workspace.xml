@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07051ae9-bfe6-4472-b01b-7f084233ee38" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Another README.md" afterPath="$PROJECT_DIR$/Another README.md" />
-    </list>
+    <list default="true" id="07051ae9-bfe6-4472-b01b-7f084233ee38" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +11,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -26,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Another README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Another README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Another README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="193">
+              <first_editor relative-caret-position="920">
                 <caret line="40" column="68" lean-forward="false" selection-start-line="40" selection-start-column="62" selection-end-line="40" selection-end-column="68" />
                 <folding />
               </first_editor>
@@ -130,12 +128,12 @@
       <option name="presentableId" value="Default" />
       <updated>1517072931870</updated>
       <workItem from="1517072935443" duration="4222000" />
-      <workItem from="1517124254272" duration="3368000" />
+      <workItem from="1517124254272" duration="3480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7590000" />
+    <option name="totallyTimeSpent" value="7702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1400" height="769" extended-state="0" />
@@ -183,22 +181,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Another README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="125" lean-forward="false" selection-start-line="0" selection-start-column="125" selection-end-line="0" selection-end-column="125" />
+          <first_editor relative-caret-position="920">
+            <caret line="40" column="68" lean-forward="false" selection-start-line="40" selection-start-column="62" selection-end-line="40" selection-end-column="68" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Another README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="193">
-            <caret line="40" column="68" lean-forward="false" selection-start-line="40" selection-start-column="62" selection-end-line="40" selection-end-column="68" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="125" lean-forward="false" selection-start-line="0" selection-start-column="125" selection-end-line="0" selection-end-column="125" />
             <folding />
           </first_editor>
           <second_editor />
